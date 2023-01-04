@@ -22,5 +22,7 @@ header{
     background-color: rgba(27, 27, 50, 0.8);
     color: #fff;
 }
-
+button{
+    width:100%;
+}
 
